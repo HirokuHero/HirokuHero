@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HirokuHero
-- 👀 I’m interested in Web Programming and articial intellegence
+- 👀 I’m interested in Web Programming and artificial intelligence
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
